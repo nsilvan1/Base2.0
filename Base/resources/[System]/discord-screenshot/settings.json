@@ -1,8 +1,8 @@
 {
-    "webhookUrl": "your_webhook_here",
+    "webhookUrl": "https://discordapp.com/api/webhooks/885225579111125002/ndz7XDPNf2cDDnGWLUmbBV56Z5iHq1ByrSFyYS1TQiGFXleLwPGqTUkiwT4eC1KVUCyC",
     "framework": "none",
-    "commandName": "screenshot",
-    "commandPermission": "request.screenshot",
+    "commandName": "print",
+    "commandPermission": "suporte.permissao",
     "screenshotOptions": {
         "encoding": "jpg",
         "quality": 0.92
